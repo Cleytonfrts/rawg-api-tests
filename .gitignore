@@ -1,0 +1,7 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Arquivos temporários e de cache do Python/Pytest
+__pycache__/
+.pytest_cache/
