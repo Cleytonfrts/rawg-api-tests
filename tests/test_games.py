@@ -1,5 +1,4 @@
 import os
-import pytest
 from http import HTTPStatus
 from api.client import RawgClient
 
