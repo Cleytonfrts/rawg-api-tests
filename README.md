@@ -70,3 +70,7 @@ pytest -v
 ## 📂 Testes Manuais (Postman)
 
 A automação foi precedida por testes exploratórios e mapeamento de contrato. Na pasta `postman/` deste repositório, você encontrará a Collection exportada e um README específico detalhando os cenários manuais validados.
+
+## 👨‍💻 Autor
+
+**Cleyton Freitas**
