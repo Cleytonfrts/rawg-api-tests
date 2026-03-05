@@ -33,7 +33,7 @@ Para rodar os testes na sua máquina, siga os passos abaixo:
 
 ### 1. Clone o repositório
 ```bash
-git clone <https://github.com/Cleytonfrts/rawg-api-tests>
+git clone https://github.com/Cleytonfrts/rawg-api-tests
 cd rawg-api-tests
 ```
 
